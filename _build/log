@@ -1,0 +1,5 @@
+# dune init proj parallel
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/raymonddeng/Desktop/github/parallel
+# Auto-detected concurrency: 8
